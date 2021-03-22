@@ -1,0 +1,3 @@
+cadeira gamer,1000
+desktop a,3000
+head set,25
